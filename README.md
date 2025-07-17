@@ -1,2 +1,3 @@
 # Python-Basic
-from202506
+start from 202506
+watch the video courses by Teacher Yili and ShowMeAI
